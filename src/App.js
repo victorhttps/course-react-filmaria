@@ -1,5 +1,12 @@
+import Routes from './routes';
+import './style.css';
+
 function App() {
-  return <h1>Filmaria</h1>;
+  return (
+    <div className="app">
+      <Routes />
+    </div>
+  );
 }
 
 export default App;

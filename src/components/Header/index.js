@@ -5,9 +5,9 @@ export default function Header() {
   return (
     <header>
       <Link className="logo" to="/">
-        FIlmaria
+        Filmaria
       </Link>
-      <Link className="favoritos" to="/">
+      <Link className="favoritos" to="/favoritos">
         Salvos
       </Link>
     </header>

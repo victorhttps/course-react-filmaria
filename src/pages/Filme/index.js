@@ -31,6 +31,7 @@ export default function Filme() {
       </div>
     );
   }
+  //pagina
   return (
     <div className="filme-info">
       <h1>{filme.nome}</h1>

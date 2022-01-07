@@ -3,4 +3,4 @@
 <h3>Curso React Js do zero ao avançado na pratica
 - Udemy</h3>
 
-<a href="https://course-react-filmaria.herokuapp.com/">Heroku do projeto</a>
+<a href="https://course-react-filmaria.herokuapp.com/">Projeto em deploy</a>
